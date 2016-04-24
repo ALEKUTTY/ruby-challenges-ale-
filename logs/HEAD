@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 e87bce1daee3d330e5ae5eeedaa34652b080bcbf Alessandra <alessandra.viero@gmail.com> 1461245910 +0200	commit (initial): My first commit!!
+e87bce1daee3d330e5ae5eeedaa34652b080bcbf e87bce1daee3d330e5ae5eeedaa34652b080bcbf Alessandra <alessandra.viero@gmail.com> 1461316559 +0200	checkout: moving from master to my-new-branch
+e87bce1daee3d330e5ae5eeedaa34652b080bcbf 2db3a468b1ad60857f95ed4ea2be44fd8c7f572e Alessandra <alessandra.viero@gmail.com> 1461316890 +0200	commit: First committ on new branch
+2db3a468b1ad60857f95ed4ea2be44fd8c7f572e e87bce1daee3d330e5ae5eeedaa34652b080bcbf Alessandra <alessandra.viero@gmail.com> 1461316911 +0200	checkout: moving from my-new-branch to master
+e87bce1daee3d330e5ae5eeedaa34652b080bcbf 2db3a468b1ad60857f95ed4ea2be44fd8c7f572e Alessandra <alessandra.viero@gmail.com> 1461316958 +0200	merge my-new-branch: Fast-forward
